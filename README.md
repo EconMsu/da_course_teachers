@@ -3,7 +3,7 @@
 
 | Номер недели | Материал курса | Описание | Инструментарий |
 | :-----: | :-----: | :----: | :-----: |
-| 1 | [Data Mining в бизнесе](https://github.com/EconMsu/da_course_teachers/tree/main/data_mining) | прогнозируется отток клиентов телекоммуникационной компании | Pandas, Scipy, NLTK  |
+| 1 | [Исследовательский анализ данных](https://github.com/EconMsu/da_course_teachers/tree/main/data_mining) | прогнозируется отток клиентов телекоммуникационной компании | Pandas, Scipy, NLTK  |
 | 2 | [Графическое представление данных](https://github.com/EconMsu/da_course_teachers/tree/main/graphics) | приводится визуальное представление заболеваний | Pandas, Seaborn, Matplotlib |
 | 3 | [Временные ряды](https://github.com/EconMsu/da_course_teachers/tree/main/time_series) | исследуются авиаперевозки | Seaborn, Matplotlib, Statsmodels |
 | 4 | [Методы классификации](https://github.com/EconMsu/da_course_teachers/tree/main/classification) | осуществляется классификация пассажиров корабля | Sklearn, Pandas, Sklearn, Matplotlib |
