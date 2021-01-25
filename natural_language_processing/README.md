@@ -3,3 +3,5 @@
 Источник данных по новостям и фондовом индексу Dow Jones Industrial Average: [Stocknews](https://www.kaggle.com/aaron7sun/stocknews)
 
 Источник данных по твитам COVID-19: [COVID-19 Tweets](https://www.kaggle.com/gpreda/covid19-tweets)
+
+Фиаил case_covid_version_1_1 ещё не доработан
