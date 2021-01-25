@@ -4,4 +4,4 @@
 
 Источник данных по твитам COVID-19: [COVID-19 Tweets](https://www.kaggle.com/gpreda/covid19-tweets)
 
-Фиаил case_covid_version_1_1 ещё не доработан
+ФАИЛ case_covid_version_1_1 (((ЕЩЁ НЕ ДОРАБОТАН)))!!!
